@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/158/trunk/webkit
+END
+webkit-1.0.2.defs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/140/trunk/webkit/webkit-1.0.2.defs
+END
+webkit-1.1.defs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/webkit/webkit-1.1.defs
+END
+webkit.override
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/158/trunk/webkit/webkit.override
+END
+webkit-1.1-types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/152/trunk/webkit/webkit-1.1-types.defs
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/154/trunk/webkit/__init__.py
+END
+webkitmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/138/trunk/webkit/webkitmodule.c
+END
+webkit-base-types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/webkit/webkit-base-types.defs
+END

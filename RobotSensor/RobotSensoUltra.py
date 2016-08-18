@@ -107,28 +107,28 @@ try:
 #            print lista
         if distance<40:
             print "Obstaculo en en la vía"
-   	    pygame.mixer.music.load("cuidado.wav")
+   	        pygame.mixer.music.load("cuidado.wav")
             pygame.mixer.music.play()
             #Y le damos un valor logico alto para encender el LED
             Retroceder() 
-     	    Derecha()
+     	      Derecha()
             time.sleep(1)
             Parar() 
- 	    Izquierda()
+ 	          Izquierda()
             GPIO.output(led, GPIO.HIGH)
-	else:
+	       else:
             Forward()
-	    Izquierda()
+	          Izquierda()
             time.sleep(0.5)
             Derecha() 
             print "luces apagadas" 
             GPIO.output(led, GPIO.LOW)
 	
-	if distance>42:
+      	if distance>42:
             pygame.mixer.music.stop()
- 	    Parar()
+ 	          Parar()
 
-	time.sleep(1)                    #Pequeña pausa para no saturar el procesador de la Raspberry
+time.sleep(1)                    #Pequeña pausa para no saturar el procesador de la Raspberry
 except KeyboardInterrupt:                #Si el usuario pulsa CONTROL+C...
     print "quit"                         #Avisamos del cierre al usuario
     GPIO.cleanup()   

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/161/trunk
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/161/trunk/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/62/trunk/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/38/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/160/trunk/Makefile.am
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/62/trunk/MAINTAINERS
+END
+pywebkitgtk.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/66/trunk/pywebkitgtk.pc.in
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/45/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/161/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/64/trunk/README
+END

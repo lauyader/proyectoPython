@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/149/trunk/tests
+END
+test_webbackforwardlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/118/trunk/tests/test_webbackforwardlist.py
+END
+test_networkrequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/149/trunk/tests/test_networkrequest.py
+END
+test_networkresponse.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/148/trunk/tests/test_networkresponse.py
+END
+test_webframe.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/117/trunk/tests/test_webframe.py
+END
+test_webnavigationaction.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/105/trunk/tests/test_webnavigationaction.py
+END

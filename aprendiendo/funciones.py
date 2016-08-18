@@ -8,4 +8,7 @@ def calculo():
 	metros = 24*millas+pies
 	print "Longitud", metros, "metros" 
 
+def suma():
+	print "Funcion de suma"
+
 calculo()
