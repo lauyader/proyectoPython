@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface>
+  <object class="tk.LabelFrame" id="LabelFrame_1">
+    <property name="height">480</property>
+    <property name="text" translatable="yes">Consulta de Registro
+</property>
+    <property name="width">640</property>
+    <layout>
+      <property name="column">0</property>
+      <property name="propagate">True</property>
+      <property name="row">0</property>
+    </layout>
+    <child>
+      <object class="tk.Label" id="Label_9">
+        <property name="text" translatable="yes">No de Cédula</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="columnspan">1</property>
+          <property name="propagate">True</property>
+          <property name="row">1</property>
+          <property name="rowspan">1</property>
+          <property name="sticky">w</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Entry" id="EntreCedula">
+        <property name="text" translatable="yes">123456789</property>
+        <property name="textvariable">string:nCedula</property>
+        <property name="width">5</property>
+        <layout>
+          <property name="column">2</property>
+          <property name="propagate">True</property>
+          <property name="row">1</property>
+          <property name="sticky">e</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+  <object class="tk.LabelFrame" id="LabelFrame_2">
+    <property name="height">200</property>
+    <property name="text" translatable="yes">LabelFrame_2</property>
+    <property name="width">200</property>
+    <layout>
+      <property name="column">0</property>
+      <property name="propagate">True</property>
+      <property name="row">0</property>
+    </layout>
+    <child>
+      <object class="tk.Label" id="TCedula">
+        <property name="text" translatable="yes">Cedula</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+          <property name="sticky">w</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Label" id="CCedula">
+        <property name="text" translatable="yes">ccedula
+</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+          <property name="sticky">e</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Label" id="TNombre">
+        <property name="text" translatable="yes">Apellido y Nombre</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">1</property>
+          <property name="sticky">w</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Label" id="TEmail">
+        <property name="text" translatable="yes">Email</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">2</property>
+          <property name="sticky">w</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Label" id="TTelefono">
+        <property name="text" translatable="yes">Telefono</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">3</property>
+          <property name="sticky">w</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+</interface>
