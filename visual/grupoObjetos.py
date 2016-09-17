@@ -1,7 +1,13 @@
-#Ventana.py
+#Animar varios objetos y enlazarlos.py
 
 from visual import *
-scene2 = display(title='Objetos',x=0, y=0, width=600, height=500,center=(5,0,0), background=(0.2,0.3,1))
+
+
+###################################
+# Muestro los objetos que estaran en la ventana
+###################################
+
+Escenario1 = display(title='Objetos',x=0, y=0, width=600, height=500,center=(5,0,0), background=(0.2,0.3,1))
 n1 = sphere(pos=(1,0,1), radius=5, color = color.green)
 suelo= box(pos=(-5,-10,0), lenght=10,width=60, height=50, axis=(0,1,0.2),color=color.orange)
 
