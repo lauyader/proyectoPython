@@ -11,7 +11,7 @@ import mysql.connector
 # Variable con la configuracion de la conexion
 config_mysql = {
     'user': 'root',
-    'password': 'weEAr9o63',
+    'password': '',
     'host': 'localhost',
     'database': 'Evaluacion',
 }
