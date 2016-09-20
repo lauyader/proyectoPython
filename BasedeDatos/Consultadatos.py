@@ -14,7 +14,7 @@ code = raw_input("Cedula:")
 # Variable con la configuracion de la conexion
 config_mysql = {
     'user': 'root',
-    'password': 'weEAr9o63',
+    'password': '',
     'host': 'localhost',
     'database': 'Evaluacion',
 }
