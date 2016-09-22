@@ -84,8 +84,6 @@ while True:
 
 
 
-
-
 ###################################
 # Hay que resolver que la imagen deja rastro. 
 ###################################	

@@ -13,7 +13,7 @@ while(1):
    #En este caso de verde oscuro a verde-azulado claro
    #verde_bajos = np.array([49,50,50], dtype=np.uint8)
    #verde_altos = np.array([80, 255, 255], dtype=np.uint8)
-   verde_bajos = np.array([71,40,40], dtype=np.uint8)
+   verde_bajos = np.array([111,18,49], dtype=np.uint8)
    verde_altos = np.array([208, 112, 125], dtype=np.uint8)
  
     #Crear una mascara con solo los pixeles dentro del rango de verdes

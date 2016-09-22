@@ -12,5 +12,3 @@ def suma():
     print ("Funcion de suma")
 
 calculo()
-
-def prueva():
